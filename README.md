@@ -18,11 +18,13 @@ I enjoy working with data, creating interactive dashboards, and building project
 ---
 
 ## 🛠️ Skills & Technologies
+
 ### 🔧 Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=github,vscode,mysql,python" height="45" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?i=github,vscode,mysql,python" height="45" alt="GitHub, VS Code, MySQL, Python"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="45" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" height="45" alt="Microsoft Excel"/>
 </p>
-
 ## 📊 My Projects
 
 ### 🛒 E-Commerce Sales Analysis
