@@ -25,19 +25,6 @@ I enjoy working with data, creating interactive dashboards, and building project
   <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="SQL"/>
   <img src="https://skillicons.dev/icons?i=excel" height="45" alt="Excel"/>
 </p>
-
-### 📈 Data Visualization
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=powerbi" height="45" alt="Power BI"/>
-</p>
-
-### 🤖 AI & Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python" height="45" alt="Python"/>
-  <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub"/>
-  <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="VS Code"/>
-</p>
-
 ### 🔧 Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=github,vscode,mysql,python" height="45" alt="Tools"/>
