@@ -18,13 +18,6 @@ I enjoy working with data, creating interactive dashboards, and building project
 ---
 
 ## 🛠️ Skills & Technologies
-
-### 📊 Data Analytics
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python" height="45" alt="Python"/>
-  <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="SQL"/>
-  <img src="https://skillicons.dev/icons?i=excel" height="45" alt="Excel"/>
-</p>
 ### 🔧 Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=github,vscode,mysql,python" height="45" alt="Tools"/>
