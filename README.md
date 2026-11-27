@@ -17,16 +17,31 @@ I enjoy working with data, creating interactive dashboards, and building project
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Skills & Technologies
 
-| I Have | I'm Learning | Exploring |
-|---|---|---|
-| 📊 Power BI | 🐍 Python | 🤖 Artificial Intelligence |
-| 📈 Data Visualization | 🗄️ SQL | 
-| 🔄 Power Query | 📊 Advanced Analytics | ☁️ AI Tools |
-| 📑 Microsoft Excel | 💻 Data Analysis | 🚀 AI Development |
+### 📊 Data Analytics
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" height="45" alt="Python"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="SQL"/>
+  <img src="https://skillicons.dev/icons?i=excel" height="45" alt="Excel"/>
+</p>
 
----
+### 📈 Data Visualization
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=powerbi" height="45" alt="Power BI"/>
+</p>
+
+### 🤖 AI & Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" height="45" alt="Python"/>
+  <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="VS Code"/>
+</p>
+
+### 🔧 Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=github,vscode,mysql,python" height="45" alt="Tools"/>
+</p>
 
 ## 📊 My Projects
 
